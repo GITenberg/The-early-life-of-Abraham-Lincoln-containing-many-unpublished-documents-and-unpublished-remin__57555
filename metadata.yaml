@@ -5,6 +5,9 @@ contributor:
     agent_name: Davis, J. McCan
     gutenberg_agent_id: '49455'
     url: http://www.gutenberg.org/2009/agents/49455
+covers:
+- cover_type: archival
+  image_path: 57555-h/images/cover.jpg
 creator:
   author:
     agent_name: Tarbell, Ida M. (Ida Minerva)
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4022
     wikipedia: http://en.wikipedia.org/wiki/Ida_M._Tarbell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57555#The-early-life-of-Abraham-Lincoln-containing-many-unpublished-documents-and-unpublished-remin_
 gutenberg_issued: '2018-07-20'
 gutenberg_type: Text
 identifiers:
